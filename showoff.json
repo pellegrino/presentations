@@ -2,7 +2,8 @@
   "sections": [ 
     { "section" : "agenda"},
     { "section" : "introduction"},
-    { "section" : "usage"},
+    { "section" : "using"},
+    { "section" : "extending"},
     { "section" : "future"},
     { "section" : "references"}
   ]
