@@ -12,10 +12,6 @@
 
 Billing solution powered by rails engines
 
-!SLIDE 
-
-Rails Engines
-
 !SLIDE center
 
 # Rails Engines
@@ -38,6 +34,8 @@ Full stack shareable solutions
 
 !SLIDE bullets incremental 
 
+# Project goals
+
 * Easy to use 
 * As less dependencies as possible
 * PCI compliant
@@ -45,6 +43,7 @@ Full stack shareable solutions
 !SLIDE 
 
 PCI Compliance
+
 [http://www.pcicomplianceguide.org/](http://www.pcicomplianceguide.org)
 
 !SLIDE
@@ -54,8 +53,7 @@ PCI Compliance
 
 !SLIDE bullets incremental
 
-\#protip
-
+2 \#protips for you
 
 * Don't ever *think* in storing cards by yourself. 
 * Don't ever forget the first tip 

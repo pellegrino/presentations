@@ -24,7 +24,8 @@ Add a initializer
 
 Copy jackpot's migrations to your project 
 
-          bundle exec rake jackpot:install:migrations
+          bundle exec rake 
+          jackpot:install:migrations
 !SLIDE 
 
 Mount the engine in your routes 
@@ -33,5 +34,12 @@ Mount the engine in your routes
 
 !SLIDE 
 
+Basic rails app powered by jackpot
+
 [https://github.com/pellegrino/jackpot-demo](https://github.com/pellegrino/jackpot-demo)
+
+
+!SLIDE 
+
+# DEMO
 
