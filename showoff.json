@@ -1,8 +1,8 @@
 { "name": "Introduction to Jackpot", 
   "sections": [ 
-    {"section":"agenda"},
-    {"section":"introduction"},
-    {"section":"usage"},
-    {"section":"future_plans"}
+    { "section" : "agenda"},
+    { "section" : "introduction"},
+    { "section" : "usage"},
+    { "section" : "future_plans"}
   ]
 }
