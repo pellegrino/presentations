@@ -1,1 +1,8 @@
-{ "name": "My Preso", "sections": [ {"section":"one"} ]}
+{ "name": "Introduction to Jackpot", 
+  "sections": [ 
+    {"section":"agenda"},
+    {"section":"introduction"},
+    {"section":"usage"},
+    {"section":"future_plans"}
+  ]
+}
