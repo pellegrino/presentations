@@ -29,7 +29,7 @@ Full stack shareable solutions
 * Doesn't require a separate deployment
 * Easy to setup
 
-!SLIDE 
+!SLIDE CENTER
 ![AwYeah](aw-yeah.jpg)
 
 !SLIDE bullets incremental 
