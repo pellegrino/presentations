@@ -10,8 +10,6 @@
 
 Billing solution powered by rails engines
 
-
-
 !SLIDE 
 
 Rails Engines

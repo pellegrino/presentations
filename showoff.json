@@ -3,6 +3,7 @@
     { "section" : "agenda"},
     { "section" : "introduction"},
     { "section" : "usage"},
-    { "section" : "future_plans"}
+    { "section" : "future"},
+    { "section" : "references"}
   ]
 }
