@@ -23,4 +23,4 @@ Non card payments
 
 * Beta testers
 * Some UI love 
-* Internacionalization
+* Internationalization

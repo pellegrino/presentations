@@ -10,7 +10,7 @@ vitorp@gmail.com
 
 
 !SLIDE 
-Software Engineer @ BuenaOndaLabs
+Software Engineer 
 
 !SLIDE center
 ![Mendicant University](mendicant-university-logo.png)
